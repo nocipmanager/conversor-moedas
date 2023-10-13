@@ -1,4 +1,4 @@
-# Converter-Moedas (Conversor de Moedas)
+# Conversor de Moedas
 
 Projeto simples de conversor de moedas, consumindo API do Banco Central do Brasil.
 
